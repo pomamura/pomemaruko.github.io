@@ -1,3 +1,9 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
 .navbar-default {
     background-color: #292929;
     border-color: transparent;
@@ -45,4 +51,14 @@ hr.star-primary {
 hr.star-primary:after {
     color: #292929;
     background-color: #fff;
+}
+#portfolio .portfolio-item .portfolio-link .caption {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: #18bc9c;
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
 }
