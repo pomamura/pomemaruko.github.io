@@ -1,0 +1,48 @@
+.navbar-default {
+    background-color: #292929;
+    border-color: transparent;
+}
+hr.star-light:after {
+    color: #fff;
+    background-color: #02AEDC;
+}
+header {
+    text-align: center;
+    color: #fff;
+    background: #A18E5C;
+}
+body {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #292929;
+    background-color: #ffffff;
+}
+section.success {
+    color: #fff;
+    background: #A18E5C;
+}
+.btn-success {
+    color: #ffffff;
+    background-color: #02AEDC;
+    border-color: #02AEDC;
+}
+footer .footer-above {
+    padding-top: 50px;
+    background-color: #A18E5C;
+}
+footer .footer-below {
+    padding: 25px 0;
+    background-color: #292929;
+}
+a, a:hover, a:focus, a:active, a.active {
+    outline: 0;
+    color: #02AEDC;
+}
+hr.star-primary {
+    border-color: #292929;
+}
+hr.star-primary:after {
+    color: #292929;
+    background-color: #fff;
+}
