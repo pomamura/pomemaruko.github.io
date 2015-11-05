@@ -30,8 +30,8 @@ section.success {
 }
 .btn-success {
     color: #ffffff;
-    background-color: #1a242f;
-    border-color: #2c3e50;
+    background-color: #2C3E50;
+    border-color: #2C3E50;
 }
 footer .footer-above {
     padding-top: 50px;
@@ -76,8 +76,8 @@ hr.star-primary:after {
 
 .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
     color: #ffffff;
-    background-color: #BABABA;
-    border-color: #BABABA;
+    background-color: #1a242f;
+    border-color: #161f29;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
