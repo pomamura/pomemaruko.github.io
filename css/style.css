@@ -31,6 +31,7 @@ section.success {
 .btn-success {
     color: #ffffff;
     background-color: #1a242f;
+    border-color: #2c3e50;
 }
 footer .footer-above {
     padding-top: 50px;
