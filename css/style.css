@@ -15,7 +15,7 @@ hr.star-light:after {
 header {
     text-align: center;
     color: #fff;
-    background: #A18E5C;
+    background: #BABABA;
 }
 body {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -26,7 +26,7 @@ body {
 }
 section.success {
     color: #fff;
-    background: #A18E5C;
+    background: #BABABA;
 }
 .btn-success {
     color: #ffffff;
@@ -35,7 +35,7 @@ section.success {
 }
 footer .footer-above {
     padding-top: 50px;
-    background-color: #A18E5C;
+    background-color: #BABABA;
 }
 footer .footer-below {
     padding: 25px 0;
