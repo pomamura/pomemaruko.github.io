@@ -77,7 +77,6 @@ hr.star-primary:after {
 .btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
     color: #ffffff;
     background-color: #BABABA;
-    border-color: #11866f;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
