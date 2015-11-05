@@ -61,3 +61,27 @@ hr.star-primary:after {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
+
+/*リンクhoverの色*/
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    color: #BABABA;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #BABABA;
+    background-color: transparent;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
+    color: #ffffff;
+    background-color: #BABABA;
+    border-color: #11866f;
+}
+
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+    border: solid 2px #fff;
+    color: #BABABA;
+    background: #fff;
+}
